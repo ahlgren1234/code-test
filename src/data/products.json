@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Super Product 1",
+    "desc": "Some text for this super product that all want to buy...",
+    "infotext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget augue rhoncus, tincidunt nisl sed, lacinia turpis. Cras at eros vestibulum, maximus nibh nec, molestie lorem.",
+    "image": "1",
+    "price": 569,
+    "oldprice": 120
+  },
+  {
+    "id": 2,
+    "name": "Super Product 34",
+    "desc": "Some text for this super product that all want to buy...",
+    "infotext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget augue rhoncus, tincidunt nisl sed, lacinia turpis. Cras at eros vestibulum, maximus nibh nec, molestie lorem.",
+    "image": "2",
+    "price": 459,
+    "oldprice": 120
+  },
+  {
+    "id": 3,
+    "name": "Super Product 39",
+    "desc": "Some text for this super product that all want to buy...",
+    "infotext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget augue rhoncus, tincidunt nisl sed, lacinia turpis. Cras at eros vestibulum, maximus nibh nec, molestie lorem.",
+    "image": "3",
+    "price": 1569,
+    "oldprice": 120
+  },
+  {
+    "id": 4,
+    "name": "Super Product 56",
+    "desc": "Some text for this super product that all want to buy...",
+    "infotext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget augue rhoncus, tincidunt nisl sed, lacinia turpis. Cras at eros vestibulum, maximus nibh nec, molestie lorem.",
+    "image": "4",
+    "price": 69,
+    "oldprice": 0
+  },
+  {
+    "id": 5,
+    "name": "Super Product 77",
+    "desc": "Some text for this super product that all want to buy...",
+    "infotext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget augue rhoncus, tincidunt nisl sed, lacinia turpis. Cras at eros vestibulum, maximus nibh nec, molestie lorem.",
+    "image": "5",
+    "price": 679,
+    "oldprice": 0
+  },
+  {
+    "id": 6,
+    "name": "Super Product 99",
+    "desc": "Some text for this super product that all want to buy...",
+    "infotext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget augue rhoncus, tincidunt nisl sed, lacinia turpis. Cras at eros vestibulum, maximus nibh nec, molestie lorem.",
+    "image": "6",
+    "price": 2269,
+    "oldprice": 0
+  }
+]

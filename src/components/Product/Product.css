@@ -1,0 +1,45 @@
+.productContainer {
+  border: 1px solid lightgrey;
+  flex: 25%;
+  margin: 10px;
+  min-width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+
+.product-image {
+  width: 100%;
+}
+
+.productImage {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.product-body {
+  padding: 25px;
+}
+
+.infoTextToggler {
+  cursor: pointer;
+}
+
+.product-infotext {
+  height: 150px;
+}
+
+.product-pricearea {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.priceNow h2 {
+  color: red;
+}
+
+.priceOld h2 {
+  text-decoration: line-through;
+}
